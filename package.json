@@ -1,0 +1,24 @@
+{
+  "name": "automata-visualizer",
+  "version": "1.0.0",
+  "description": "A regex automata visualizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/german1608/automata-visualizer.git"
+  },
+  "keywords": [
+    "automata",
+    "regex",
+    "javascript"
+  ],
+  "author": "Germán Robayo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/german1608/automata-visualizer/issues"
+  },
+  "homepage": "https://github.com/german1608/automata-visualizer#readme"
+}
